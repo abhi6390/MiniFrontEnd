@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import NavBar from './NavBar';
+import Footer from './Footer';
 
 const Home = () => {
   return (
@@ -90,6 +91,9 @@ const Home = () => {
     
 
     </div>
+
+
+    {/* <Footer/> */}
 
     </>
   );
