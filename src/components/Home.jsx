@@ -35,12 +35,14 @@ const Home = () => {
         <p className="mt-3 text-sm  ">
           Explore our AI-powered diagnostic tool to identify medical conditions accurately
         </p>
+        <a href="https://ai-medical-analysis.streamlit.app"  target='blank'>
         <button
           type="button"
           className="inline-flex items-center rounded-md bg-black px-3 my-2 py-2 text-sm font-semibold text-white hover:bg-black/80"
         >
           Try now 
         </button>
+        </a>
       </div>
     </div>
       
@@ -56,12 +58,14 @@ const Home = () => {
         <p className="mt-3 text-sm  ">
           Unveil our AI-powered diet planner for personalized nutrition and meal planning
         </p>
+        <a href="" target='blank'>
        <button
           type="button"
           className="inline-flex items-center rounded-md bg-black px-3 my-2 py-2 text-sm font-semibold text-white hover:bg-black/80"
         >
           Try now 
         </button>
+        </a>
       </div>
     </div>
 
@@ -77,12 +81,14 @@ const Home = () => {
         <p className="mt-3 text-sm  ">
           Discover our AI-driven tool for accurate calorie tracking and nutritional insights
         </p>
+        <a href="https://calories-count-ai.streamlit.app" target='blank'>
        <button
           type="button"
           className="inline-flex items-center rounded-md bg-black px-3 my-2 py-2 text-sm font-semibold text-white hover:bg-black/80"
         >
           Try now 
         </button>
+        </a>
       </div>
     </div>
 
