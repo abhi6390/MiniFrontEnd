@@ -58,7 +58,7 @@ const Home = () => {
         <p className="mt-3 text-sm  ">
           Unveil our AI-powered diet planner for personalized nutrition and meal planning
         </p>
-        <a href="" target='blank'>
+        <a href="https://ai-diet-planner-2.streamlit.app/" target='blank'>
        <button
           type="button"
           className="inline-flex items-center rounded-md bg-black px-3 my-2 py-2 text-sm font-semibold text-white hover:bg-black/80"
